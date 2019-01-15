@@ -8,6 +8,8 @@ public class MycroserviceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MycroserviceApplication.class, args);
+		System.out.println("Hello MSA");
+
 	}
 
 }
